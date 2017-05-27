@@ -1,5 +1,3 @@
-By Arnold Jia, Max Koenig, Warren Xia, and Tejas Gupta
-
 A Text-Based ASCII Shooting Game
 
 Controls:
