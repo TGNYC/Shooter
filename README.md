@@ -1,5 +1,5 @@
 # Shooter
-## A Text-Based ASCII Shooting Game
+***A Text-Based ASCII Shooting Game***
 
 ### Controls:
 Move up, down, left and right (in the 2D plane) using the arrow keys. Shoot using the spacebar.
